@@ -1,6 +1,6 @@
 package chap_07.Sec4;
 
-import chap_03.Computer;
+import chap_03.Sec02.exam01.Computer;
 
 public class SupersonicAirplane extends Airplane{
     // 상수를 이용해서 값을 지정

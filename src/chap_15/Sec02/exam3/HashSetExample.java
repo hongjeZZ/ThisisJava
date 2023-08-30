@@ -8,11 +8,11 @@ public class HashSetExample {
         HashSet<String> set = new HashSet<>();
 
         set.add("안홍제");
-        set.add("최도란");
+        set.add("홍길동");
         set.add("이인표");
-        set.add("김앤장");
+        set.add("이순신");
         set.add("정지훈");
-        set.add("이정택");
+        set.add("김학도");
 
         // Iterator 인터페이스 객체 생성
         Iterator<String> iterator = set.iterator();

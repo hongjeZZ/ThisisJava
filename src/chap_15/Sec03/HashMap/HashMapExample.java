@@ -11,8 +11,8 @@ public class HashMapExample {
         Map<String, Integer> map = new HashMap<>();
 
         map.put("안홍제", 19);
-        map.put("이정택", 24);
-        map.put("이인표", 24);
+        map.put("홍길동", 24);
+        map.put("이순신", 24);
         map.put("안홍제", 24);      // 키 값은 중복되지 않음, 마지막으로 추가된 엔트리만 저장됨 ( 그 전 엔트리는 삭제 )
 
         int size = map.size();

@@ -1,7 +1,5 @@
 package chap_07.Sec3;
 
-import chap_03.package2.C;
-
 public class ComputerExample {
     public static void main(String[] args) {
 

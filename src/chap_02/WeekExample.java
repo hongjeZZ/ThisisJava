@@ -55,8 +55,8 @@ public class WeekExample {
         }
 
         if (today == _Enum.WEDNESDAY)
-            System.out.println("오늘은 수요일 입니당");
+            System.out.println("오늘은 수요일 입니다");
         else
-            System.out.println("오늘은 수요일이 아닙니당");
+            System.out.println("오늘은 수요일이 아닙니다");
     }
 }
